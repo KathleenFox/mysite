@@ -1,5 +1,9 @@
-*{
-    font-family:Helvetica, Sans-Serif;
-    font-size:12px;
+h1 {font-family: Times, Serif;}
+p {font-family: Verdana, Sans-Serif;}
+a {font-family: Verdana, Sans-Serif;}
+h1{ color:#add8e6;}
+p{ color:white;}
+a{color:white;}
+body{
+background-color: #000080;
 }
-
