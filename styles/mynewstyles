@@ -1,9 +1,8 @@
 #wrapper {
     width: 500px;
     margin: 10px auto 10px auto;  
-    /* top, right, bottom, left */
     height: 1000px;
-    background:black;   ;
+    background:black;  
 }
 
 h1 {font-family: Times, Serif;}
@@ -55,5 +54,5 @@ article {
 #page-footer {
     clear:left;
     background:#D14719;
-;
+
 }
